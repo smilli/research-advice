@@ -12,3 +12,4 @@ articles about research and phd advice
 * Posts from [Jean Yang](http://jxyzabc.blogspot.com/)'s blog, e.g.
   * [Networking Tips for Younger PhD Students](http://jxyzabc.blogspot.com/2016/05/networking-tips-for-younger-phd-students.html)
 * [Advice for Graduate Students: Your First Semester](https://people.eecs.berkeley.edu/~bjoern/advice/firstsemester.html) by Björn Hartmann
+* [Undergraduate research tips](http://smithamilli.com/blog/undergrad-tips/) by me (Smitha Milli)
