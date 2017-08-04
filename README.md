@@ -2,6 +2,7 @@
 articles about research and phd advice
 * [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/) by Andrej Karpathy
 * [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming
+* [How to Be a Successful PhD Student](http://dirichlet.net/pdf/dredze12how.pdf) by Mark Dredze and Hanna Wallach
 * [How to Have a Bad Career in Research/Academia Pre-PhD and Post-PhD](https://drive.google.com/file/d/0Bzis5MXW83vCdUdXYnFIVDVOSkE/view) by David Patterson
 * [Principles of Effective Research](http://michaelnielsen.org/blog/principles-of-effective-research/) by Michael Nielsen
 * [Lean Research](http://www.bailis.org/blog/lean-research/) by Peter Bailis
