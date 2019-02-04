@@ -15,3 +15,4 @@ articles about research and phd advice
 * [Advice for Graduate Students: Your First Semester](https://people.eecs.berkeley.edu/~bjoern/advice/firstsemester.html) by Björn Hartmann
 * [Undergraduate research tips](http://smithamilli.com/blog/undergrad-tips/) by me (Smitha Milli)
 * [Ph.D. Advice](http://ttic.uchicago.edu/~kgimpel/etc/phd-advice.pdf) by Kevin Gimpel
+* [7 Rules of the Grad School Game](https://stefanosnikolaidis.blogspot.com/2018/12/7-rules-of-grad-school-game.html?spref=tw) by Stefanos Nikolaidis
